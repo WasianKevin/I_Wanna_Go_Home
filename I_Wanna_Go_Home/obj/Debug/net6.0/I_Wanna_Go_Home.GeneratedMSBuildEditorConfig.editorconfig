@@ -1,0 +1,16 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = I_Wanna_Go_Home
+build_property.RootNamespace = I_Wanna_Go_Home
+build_property.ProjectDir = c:\Users\bengtsson.kevin\Documents\Programmering_2\I_Wanna_Go_Home\I_Wanna_Go_Home\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = c:\Users\bengtsson.kevin\Documents\Programmering_2\I_Wanna_Go_Home\I_Wanna_Go_Home
+build_property._RazorSourceGeneratorDebug = 

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "yFqUE8hqkj71KT/61v9MHD0DbIOGYXj8MUshyYM2d1Pg/hcy/bMwQzmjwkUS0Zw818ftTLztuZqqfY0RkE0oeQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bengtsson.kevin\\Documents\\Programmering_2\\I_Wanna_Go_Home\\I_Wanna_Go_Home\\I_Wanna_Go_Home.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bengtsson.kevin\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\bengtsson.kevin\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\bengtsson.kevin\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\bengtsson.kevin\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\bengtsson.kevin\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\bengtsson.kevin\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
